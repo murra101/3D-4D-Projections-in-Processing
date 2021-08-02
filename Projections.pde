@@ -1,8 +1,8 @@
 /*
   John Murray 
- CSE 270M
- Professor Krumpe
- Final Project
+ Projections.pde
+ Projecting 3D and 4D Points on a 2D Plane
+ Fall 2020
  */
 
 
@@ -430,7 +430,7 @@ void loadObj(String fileName, float scale) {
   }
 }
 
-// This is used to connec the edges on a tesseract
+// This is used to connect the edges on a tesseract
 void connectTesseractEdges() {
   tEdges = new int[64][2];
   int edgeCount = 0;
