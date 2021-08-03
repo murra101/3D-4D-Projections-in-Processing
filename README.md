@@ -11,5 +11,6 @@ In this project, linear algebra is used to essentially calculate how 3 or 4 dime
 <img src="images/OrthographicProjection.png">
 
 ## 4 Dimensional Projection
+For this projection, the vertices if a tesseract is calculated and used. 
 
 <img src="images/4DimensionalProjection.png">
