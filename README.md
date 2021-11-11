@@ -4,10 +4,12 @@ In this project, linear algebra is used to essentially calculate how 3 or 4 dime
 
 ## Normal Perspective
 For normal perspective, the distance between the camera affect the vertices being mapped, unlike orthographic project. Matrix multiplication is used to do this efficiently.
+
 <img src="images/NormalPerspective.png">
 
 ## Orthographic Projection
 In orthographic projection, the distance of vertices from the camera does not change how they are projected onto the screen. In this case the x and y coordinates are mapped onto the screen while the z coordinate is overlooked, which generates the result shown below.
+
 <img src="images/OrthographicProjection.png">
 
 ## 4 Dimensional Projection
